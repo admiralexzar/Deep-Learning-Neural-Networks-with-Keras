@@ -28,3 +28,8 @@ the mean from the individual predictors and dividing by the standard deviation.
 ## C. Increase the number of epochs
 Repeat Part B but use 100 epochs this time for training.
 
+## D. Increase the number of hidden layers
+Repeat part B but use a neural network with the following instead:
+
+Three hidden layers, each of 10 nodes and ReLU activation function.
+
